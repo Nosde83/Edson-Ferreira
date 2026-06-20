@@ -1,0 +1,6 @@
+{
+  "name": "Meu Ministério",
+  "description": "Gestor individual de atividade de pregação para testemunhas de Jeová. Inclui cadastro, cronómetro com alerta, planificação diária, registo de revistas, estudantes e envio de relatórios.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
